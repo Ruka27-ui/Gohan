@@ -1,0 +1,9 @@
+
+{
+  "spec": 1,
+  "name": "Gohan",
+  "previewText": "Gohan Font Preview",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Ruka27-ui/Gohan/main/Gohan.ttf"
+  }
+}
